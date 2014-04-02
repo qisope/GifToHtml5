@@ -1,8 +1,9 @@
 {
     "name": "gif-to-html-5",
-    "version: "0.0.1",
-    dependencies: {
-        "restify": "2.7.x",
-        "fluent-ffmpeg": "1.6.x"
+    "version" : "0.0.1",
+    "dependencies" : {
+        "restify" : "2.7.x",
+        "fluent-ffmpeg" : "1.6.x",
+        "gm" : "1.14.x"
     }
 }
